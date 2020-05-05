@@ -1,4 +1,4 @@
-# bayesian_lin_regression_project
+# Bayesian statistics Analysis Projects
 ### Projects:
 1. Sunspot count
 2. Sleep and awake pattern
@@ -7,7 +7,7 @@
 5. Kaggle Diabetes dataset. Objective: Given a set of eight medical characteristics about a patients, predict whether or not the patient has diabetes. We compared the performance of standard ML algorithms with bayesian statistics.
 
 ### Reports
-1. Detailed report on Frequentist vs Bayesian al=nalsis
+1. Detailed report on Frequentist vs Bayesian analsis
 
 ### Scikitlearn pointer
 ##### sklearn.linear_model.LogisticRegression vs sklearn.linear_model.LogisticRegressionCV
